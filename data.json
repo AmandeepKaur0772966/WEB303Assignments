@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Zuko",
+        "origin": "Fire Nation",
+        "abilities": "Bending (fire, lightning), Weapon weilding(fire nation swordsmanship)",
+        "firstAppearance": "The Boy in the Iceberg",
+        "notableAliases": "Blind bandit"
+    },
+    {
+        "name": "Aang",
+        "origin": "Southern Air Temple",
+        "abilities": "Bending (air, water, earth, fire), Earth sonar, Spirit manipulation",
+        "firstAppearance": "The Boy in the Iceberg",
+        "notableAliases": "Bonzu Pippinpaddleopsicopolis the Third, Kuzon Fire, Twinkletoes, Baldy"
+    },
+    {   
+        "name": "Katara",
+        "origin": "Southern Water Tribe",
+        "abilities": "Bending (water), Healing",
+        "firstAppearance": "The Boy in the Iceberg",
+        "notableAliases": "June Pippinpaddleopsicopolis, Kwa Mai, Sapphire Fire, The painted lady"
+    }, 
+    {
+        "name": "Sokka",
+        "origin": "Gaoling, Earth Kingdom",
+        "abilities": "Weapon weilding (Fire Nation swordsmanship, Water Tribe swordsmanship, Boomerang), Tactician",
+        "firstAppearance": "The Boy in the Iceberg",
+        "notableAliases": "Wang fire, Captain boomerang, Snoozles, King of the tents"
+    },
+    {
+        "name": "Toph Beifong",
+        "origin": "Southern Water Tribe",
+        "abilities": "Bending (earth, sand, metal), Earth sonar",
+        "firstAppearance": "The swamp",
+        "notableAliases": "Blind bandit"
+    }    
+]
