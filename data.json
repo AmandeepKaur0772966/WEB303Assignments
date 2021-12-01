@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Zuko",
+        "origin": "Fire Nation",
+        "abilities": "Bending (fire, lightning), Weapon weilding(fire nation swordsmanship)",
+        "firstAppearance": "The Boy in the Iceberg",
+        "firstAppearanceDate": "2005-02-21",
+        "notableAliases": "Blind bandit"
+    },
+    {
+        "name": "Aang",
+        "origin": "Southern Air Temple",
+        "abilities": "Bending (air, water, earth, fire), Earth sonar, Spirit manipulation",
+        "firstAppearance": "The Boy in the Iceberg",
+        "firstAppearanceDate": "2005-02-21",
+        "notableAliases": "Bonzu Pippinpaddleopsicopolis the Third, Kuzon Fire, Twinkletoes, Baldy"
+    },
+    {   
+        "name": "Katara",
+        "origin": "Southern Water Tribe",
+        "abilities": "Bending (water), Healing",
+        "firstAppearance": "The Boy in the Iceberg",
+        "firstAppearanceDate": "2005-02-21",
+        "notableAliases": "June Pippinpaddleopsicopolis, Kwa Mai, Sapphire Fire, The painted lady"
+    }, 
+    {
+        "name": "Sokka",
+        "origin": "Gaoling, Earth Kingdom",
+        "abilities": "Weapon weilding (Fire Nation swordsmanship, Water Tribe swordsmanship, Boomerang), Tactician",
+        "firstAppearance": "The Boy in the Iceberg",
+        "firstAppearanceDate": "2005-02-21",
+        "notableAliases": "Wang fire, Captain boomerang, Snoozles, King of the tents"
+    },
+    {
+        "name": "Toph Beifong",
+        "origin": "Southern Water Tribe",
+        "abilities": "Bending (earth, sand, metal), Earth sonar",
+        "firstAppearance": "The swamp",
+        "firstAppearanceDate": "2006-04-14",
+        "notableAliases": "Blind bandit"
+    },
+    {
+        "name": "Azula",
+        "origin": "Fire Kingdom",
+        "abilities": "Bending (fire, lightning)",
+        "firstAppearance": "The Storm",
+        "firstAppearanceDate": "2005-06-03",
+        "notableAliases": "Blind bandit"
+    },
+    {
+        "name": "Uncle Iroh",
+        "origin": "Fire Kingdom",
+        "abilities": "Bending (fire, lightning), Spiritual Awakening",
+        "firstAppearance": "The boy in the iceberg",
+        "firstAppearanceDate": "2005-02-21",
+        "notableAliases": "uncle, The Dragon of The West"
+    },
+    {
+        "name": "Suki",
+        "origin": "Kyoshi Island",
+        "abilities": "Kyoshi Warrior",
+        "firstAppearance": "The Warriors of Kyoshi",
+        "firstAppearanceDate": "2005-03-04",
+        "notableAliases": " "
+    },
+    {
+        "name": "Ty Lee",
+        "origin": "Fire Kingdom",
+        "abilities": "Chi blocking, acrobatic",
+        "firstAppearance": "Return to omashu",
+        "firstAppearanceDate": "2005-04-07",
+        "notableAliases": " "
+    },
+    {
+        "name": "Appa",
+        "origin": "Southern air temple",
+        "abilities": "Flight, air bending",
+        "firstAppearance": "The boy in the iceberg",
+        "firstAppearanceDate": "2005-02-21",
+        "notableAliases": "Sheddy"
+    }    
+]
